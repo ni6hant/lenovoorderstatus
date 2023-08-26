@@ -39,7 +39,7 @@ This Python script automatically checks the order status of your Lenovo purchase
     ```python
     ORDER_NUMBER = "Your Order Number"
     EMAIL = "Your Email"
-    CHECK_INTERVAL = 60  # seconds (interval between checks)
+    HOURS = 0.5 # Time Interval of checking the status
     ```
 
 ### Run the Script:
